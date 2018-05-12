@@ -1,0 +1,32 @@
+_repo: Tytt--Helgolannista_26689
+_version: 0.1.0
+alternative_title: Das Fischermädchen von Helgoland. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nieritz, Gustav
+    aliases:
+    - Nieritz, Gustave
+    - Nieritz, Karl Gustav
+    - Nieritz, G. (Gustav)
+    birthdate: 1795
+    deathdate: 1876
+    gutenberg_agent_id: '32176'
+    url: http://www.gutenberg.org/2009/agents/32176
+    wikipedia: http://de.wikipedia.org/wiki/Karl_Gustav_Nieritz
+description: ''
+gutenberg_issued: '2008-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26689'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Helgoland (Germany) -- Juvenile fiction'
+- !lcc 'PZ'
+title: Tyttö Helgolannista
+url: http://www.gutenberg.org/ebooks/26689
