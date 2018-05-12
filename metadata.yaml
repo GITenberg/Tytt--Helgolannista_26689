@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32176
     wikipedia: http://de.wikipedia.org/wiki/Karl_Gustav_Nieritz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26689#Tytt--Helgolannista
 gutenberg_issued: '2008-09-22'
 gutenberg_type: Text
 identifiers:
